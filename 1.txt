@@ -1,1 +1,3 @@
 The first git file created by unknow person.
+HEHE
+The data for conflict.
